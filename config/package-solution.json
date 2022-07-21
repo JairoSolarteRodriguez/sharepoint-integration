@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "card-implementation-client-side-solution",
+    "id": "04b1bfcf-6cc8-415e-aaab-0c57f5d72a35",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "card-implementation description"
+      },
+      "longDescription": {
+        "default": "card-implementation description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "card-implementation Feature",
+        "description": "The feature that activates elements of the card-implementation solution.",
+        "id": "a0e37154-41e8-499f-b520-0828ad33be22",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/card-implementation.sppkg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.0",
+    "libraryName": "card-implementation",
+    "libraryId": "04b1bfcf-6cc8-415e-aaab-0c57f5d72a35",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "card-implementation",
+    "solutionShortDescription": "card-implementation description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
